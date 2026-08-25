@@ -1,0 +1,25 @@
+{
+  "name": "AidiDocs - Arsip Dokumen Digital",
+  "short_name": "AidiDocs",
+  "description": "Arsip Dokumen Digital Pribadi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "https://cdn.phototourl.com/free/2026-08-15-67b876c6-2ce6-4b7c-9623-1a14dc763593.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.phototourl.com/free/2026-08-15-67b876c6-2ce6-4b7c-9623-1a14dc763593.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
